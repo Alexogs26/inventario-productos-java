@@ -3,10 +3,10 @@
 Aplicación de consola en Java para gestionar el inventario de una tienda. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) conectado a una base de datos MariaDB.
 
 ## 🛠️ Tecnologías
-* **Lenguaje:** Java 21 (LTS)
-* **Base de Datos:** MariaDB
-* **Conexión:** JDBC (Java Database Connectivity)
-* **Build Tool:** Maven
+* **Lenguaje:** Java 21 (LTS).
+* **Base de Datos:** MariaDB.
+* **Conexión:** JDBC (Java Database Connectivity).
+* **Build Tool:** Maven.
 
 ## 🚀 Funcionalidades
 * Listar todos los productos.
