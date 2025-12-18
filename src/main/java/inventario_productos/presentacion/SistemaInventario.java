@@ -5,8 +5,6 @@ import inventario_productos.datos.ProductoDAO;
 import inventario_productos.dominio.Producto;
 
 import java.math.BigDecimal;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class SistemaInventario {
@@ -34,7 +32,7 @@ public class SistemaInventario {
 
     private static int mostrarMenu(Scanner consola) {
         System.out.print("""
-                \nMenu: 
+                \nMenu:
                 1. Listar Productos
                 2. Agregar Productos
                 3. Modificar productos
